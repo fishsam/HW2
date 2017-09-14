@@ -1,0 +1,13 @@
+
+img{height: 400px; width: 50%; background-color: white;}
+
+img{display: inline-block; margin-left: auto; margin-right: auto;}
+
+section{background-color: turquoise;}
+
+body{background-color: lightgrey;}
+
+h2{font-size: 15pt; text-align: center; }
+
+h5{font-size: 12pt; text-align: center;}
+li{list-style-type: none;}
