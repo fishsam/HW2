@@ -1,18 +1,47 @@
 
-img{height: 400px; width: auto; background-color: white;}
+img {
+	height: 400px;
+	width: auto;
+	background-color: white;
+	}
 
-img{display: inline-block; margin-left: 0; margin-right: 0;}
+img {
+	display: inline-block;
+	margin-left: 0;
+	margin-right: 0;
+	}
 
-section{background-color: turquoise;}
+section{
+	background-color: turquoise;
+	}
 
-body{background-color: lightgrey;}
+body{
+	background-color: lightgrey;
+	}
 
-h2{font-size: 15pt; text-align: center; }
+h2{
+	font-size: 15pt;
+	text-align: center; 
+	}
 
-h5{font-size: 12pt; text-align: center;}
-li{list-style-type: none;}
+h5{
+	font-size: 12pt;
+	text-align: center;
+	}
+li{
+	list-style-type: none;
+	}
 
-h3{text-align: right; font-size: 10pt;}
-h6{text-align:left; font-size: 12pt;}
+h3{
+	text-align: right;
+	font-size: 10pt;
+	}
+h6{
+	text-align:left;
+	font-size: 12pt;
+	}
 
-body{border-style: solid; padding: 10px 10px 10px 10px;}
+body{
+	border-style: solid;
+	padding: 10px 10px 10px 10px;
+	}
